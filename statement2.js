@@ -27,5 +27,5 @@ function calculateSum(limit) {
     return sum;
 }
 
-console.log(findSmallestMultiple(7))
+console.log(findSmallestMultiple(5))
 
